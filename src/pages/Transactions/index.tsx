@@ -3,7 +3,7 @@ import { SearchForm } from "../../components/SearchForm";
 import { Summary } from "../../components/Summary";
 import { PriceHighlight, TransactionsContainer, TransactionsMainContainer, TransactionsTable, TransactionsTableBody, TransactionsTableData, TransactionsTableRow } from "./styles";
 
-export function Transactions() {
+export function Transactions() {  
   return (
     <TransactionsMainContainer>
       <Header />
